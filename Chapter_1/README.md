@@ -1,4 +1,4 @@
-## **This folder contains the notebook with the code from the first chapter of the book.**
+## **This folder contains the notebooks with the code from the first chapter of the book.**
 ### The sections included are:
 **In Notebook 1**
 - Numpy Arrays
