@@ -13,6 +13,7 @@
 - The theory behind Linear regression
 - Building a simple linear regression model
 - Measuring the accuracy of our linear regression model
+- Saving model to achieve model persistency with pickle
 
 
 
