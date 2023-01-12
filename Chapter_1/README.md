@@ -16,6 +16,12 @@
 - Saving model to achieve model persistency with pickle
 - Regularization using Ridge Regression (aka L2 regularization)
 
+**In Notebook 3**
+- Polynomial modeling
+- Numpy approach
+- Predicting House prices with Decision Tree & AdaBoost
+
+
 
 
 
