@@ -20,11 +20,5 @@
 - Polynomial modeling
 - Numpy approach
 - Predicting House prices with Decision Tree & AdaBoost
+- Fetching the feature importance from Desicion Tree & AdaBoost Regression
 
-
-
-
-
-
-
-(More to come, work in progress ..)
